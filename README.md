@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Ashyels Rosyanna 👋
 
-<!--
-**Ashyels/Ashyels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Indonesian novelist, composer, and independent app developer.
+I work on creative projects that blend storytelling, atmosphere, and emotional depth.
 
-Here are some ideas to get you started:
+### Current Focus
+- Writing novel projects: *Lanterlova*, *Azura Asterheaven*, *Dark Phantasmagoria*, *Nightmare Revolver*
+- Composing original music for creative works
+- Developing indie apps and experimental projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+- Narrative-driven projects
+- Atmospheric design
+- Creative world-building
