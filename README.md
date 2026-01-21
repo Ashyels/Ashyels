@@ -1,4 +1,4 @@
-## Hi, I'm Ashyels Rosyanna 👋
+## Hi, I'm Ashyels Rosyanna 🌹
 
 I'm an Indonesian novelist, composer, and independent app developer.
 I work on creative projects that blend storytelling, atmosphere, and emotional depth.
